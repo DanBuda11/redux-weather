@@ -4,7 +4,34 @@ td, th {
 }
 
 .input-group {
-	margin: 20px 0px;
+	margin: 1em 0;
+	width: 100%;
+}
+
+/*.input-group-btn {
+	display: inline-block;
+}*/
+
+.btn {
+	/*margin-left: 0;*/
+	background-color: #ddd;
+/*	color: #fff;
+*/	/*margin-top: 0.3em;*/
+}
+
+.btn:hover {
+	background-color: #4169E1;
+	color: #fff;
+}
+
+.form-control {
+	font-size: 0.7em;
+	line-height: 2.2em;
+	width: 90%;
+}
+
+.table td {
+	padding-bottom: 0;
 }
 
 svg {
