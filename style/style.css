@@ -8,15 +8,8 @@ td, th {
 	width: 100%;
 }
 
-/*.input-group-btn {
-	display: inline-block;
-}*/
-
 .btn {
-	/*margin-left: 0;*/
 	background-color: #ddd;
-/*	color: #fff;
-*/	/*margin-top: 0.3em;*/
 }
 
 .btn:hover {
