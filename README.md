@@ -11,4 +11,4 @@ Allows a user to enter names of cities to populate a list of weather for selecte
 * [React-Google-Maps](https://github.com/tomchentw/react-google-maps) for Google Map embeds
 * [Sparklines](https://github.com/borisyankov/react-sparklines) to creates weather charts
 
-Check out a working version [here](weather-danbuda.surge.sh).
+Check out a working version [here](http://weather-danbuda.surge.sh/).
