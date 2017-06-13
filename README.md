@@ -1,5 +1,7 @@
 ## React-Redux Weather
 
+<kbd>![Image](redux-weather.png)</kbd>
+
 Allows a user to enter names of cities to populate a list of weather for selected cities, including temperature, pressure and humidity over a period of time with averages listed as well.
 
 ### Built With
