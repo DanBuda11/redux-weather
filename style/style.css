@@ -1,3 +1,5 @@
+/* Simple styling added on top of Bootstrap styles */
+
 td, th {
 	vertical-align: middle !important;
 	text-align: center !important;
