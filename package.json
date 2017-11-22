@@ -1,5 +1,5 @@
 {
-  "name": "React/Redux Weather Search",
+  "name": "redux-weather",
   "version": "1.0.0",
   "description": "Get weather forecasts by city.",
   "main": "index.js",
